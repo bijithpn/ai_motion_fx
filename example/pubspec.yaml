@@ -1,5 +1,5 @@
-name: thinking_orb_example
-description: "Showcase for the thinking_orb package: every orb and glow effect with live controls."
+name: ai_motion_fx_example
+description: "Showcase for the ai_motion_fx package: every orb and glow effect with live controls."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  thinking_orb:
+  ai_motion_fx:
     path: ../
 
   # The following adds the Cupertino Icons font to your application.

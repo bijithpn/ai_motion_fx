@@ -1,6 +1,6 @@
-# thinking_orb example
+# ai_motion_fx example
 
-A small app that shows every widget in the `thinking_orb` package with live
+A small app that shows every widget in the `ai_motion_fx` package with live
 controls, so you can try an option and see what it does before putting it in
 your own code.
 

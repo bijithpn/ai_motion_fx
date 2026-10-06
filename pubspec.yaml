@@ -1,11 +1,11 @@
-name: thinking_orb
+name: ai_motion_fx
 version: 0.2.0
 description: >-
   Animated AI status indicators for Flutter, drawn with CustomPainter: nine
   thinking-orb states, image and voice orbs, plus glow effects that wrap your
   own widgets (sound-reactive voice glow, border beam, image reveal loader).
-repository: https://github.com/bijithpn/thinking_orb
-issue_tracker: https://github.com/bijithpn/thinking_orb/issues
+repository: https://github.com/bijithpn/ai_motion_fx
+issue_tracker: https://github.com/bijithpn/ai_motion_fx/issues
 topics:
   - animation
   - ai

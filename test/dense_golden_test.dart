@@ -8,10 +8,10 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thinking_orb/src/engine/mode_frames.dart';
-import 'package:thinking_orb/src/engine/particle_system.dart';
-import 'package:thinking_orb/src/models/thinking_orb_config.dart';
-import 'package:thinking_orb/src/models/thinking_orb_state.dart';
+import 'package:ai_motion_fx/src/engine/mode_frames.dart';
+import 'package:ai_motion_fx/src/engine/particle_system.dart';
+import 'package:ai_motion_fx/src/models/thinking_orb_config.dart';
+import 'package:ai_motion_fx/src/models/thinking_orb_state.dart';
 
 import 'golden_compare.dart';
 

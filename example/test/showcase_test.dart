@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thinking_orb_example/main.dart';
+import 'package:ai_motion_fx_example/main.dart';
 
 void main() {
   for (final tab in ['ThinkingOrb', 'Image Generation', 'Voice Glow', 'Border Beam']) {

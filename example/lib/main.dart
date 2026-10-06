@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:ai_motion_fx/ai_motion_fx.dart';
 
 
 void main() => runApp(const DemoApp());
@@ -42,7 +42,7 @@ class _DemoAppState extends State<DemoApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Thinking Orbs',
+      title: 'AI Motion FX',
       debugShowCheckedModeBanner: false,
       themeMode: mode,
       theme: ThemeData(
@@ -71,7 +71,7 @@ class Showcase extends StatelessWidget {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Thinking Orbs'),
+          title: const Text('AI Motion FX'),
           actions: [
             // One button that cycles auto → light → dark (fits narrow phones).
             IconButton(

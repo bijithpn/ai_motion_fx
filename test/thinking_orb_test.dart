@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thinking_orb/src/engine/animation_clock.dart';
-import 'package:thinking_orb/src/engine/orb_renderer.dart';
-import 'package:thinking_orb/src/engine/particle_system.dart';
-import 'package:thinking_orb/src/models/thinking_orb_config.dart';
-import 'package:thinking_orb/src/states/voice.dart';
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:ai_motion_fx/src/engine/animation_clock.dart';
+import 'package:ai_motion_fx/src/engine/orb_renderer.dart';
+import 'package:ai_motion_fx/src/engine/particle_system.dart';
+import 'package:ai_motion_fx/src/models/thinking_orb_config.dart';
+import 'package:ai_motion_fx/src/states/voice.dart';
+import 'package:ai_motion_fx/ai_motion_fx.dart';
 
 OrbPainter _painter(WidgetTester tester, [int index = 0]) {
   final finder = find.byWidgetPredicate((w) => w is CustomPaint && w.painter is OrbPainter);

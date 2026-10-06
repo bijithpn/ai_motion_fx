@@ -1,4 +1,4 @@
-# thinking_orb
+# ai_motion_fx
 
 Small animated things that tell people your app is busy, listening, or working on
 something. Everything is drawn in Flutter with `CustomPainter`: no WebView, no
@@ -41,11 +41,11 @@ built for Flutter rather than copied from them.
 
 ```yaml
 dependencies:
-  thinking_orb: ^0.2.0
+  ai_motion_fx: ^0.2.0
 ```
 
 ```dart
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:ai_motion_fx/ai_motion_fx.dart';
 ```
 
 Needs Flutter 3.35 or newer.

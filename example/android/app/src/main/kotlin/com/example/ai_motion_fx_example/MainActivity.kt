@@ -1,4 +1,4 @@
-package com.example.thinking_orb_example
+package com.example.ai_motion_fx_example
 
 import io.flutter.embedding.android.FlutterActivity
 

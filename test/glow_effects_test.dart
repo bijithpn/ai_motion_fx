@@ -2,7 +2,7 @@ import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:thinking_orb/thinking_orb.dart';
+import 'package:ai_motion_fx/ai_motion_fx.dart';
 
 Widget _host(Widget child, {bool reduce = false}) => MaterialApp(
       builder: (context, c) => MediaQuery(
