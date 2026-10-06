@@ -1,5 +1,4 @@
 name: thinking_orb
-publish_to: https://pub.dev
 version: 0.2.0
 description: >-
   Animated AI status indicators for Flutter, drawn with CustomPainter: nine
